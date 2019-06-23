@@ -8,16 +8,16 @@ The World's First Authorship Acceleration Assistant
 ## Table of Contents
 
 1. [Sections](#sections)  
-    * [Part 1](#part-1-of-10-the-scholar-sight-architecture-audit)
-    * [Part 2](#part-2-of-10-the-scholar-sight-typography-audit)
-    * [Part 3](#part-3-of-10-the-scholar-sight-concision-audit)
-    * [Part 4](#part-4-of-10-the-scholar-sight-articulation-audit)
-    * [Part 5](#part-5-of-10-the-scholar-sight-cohesion-audit)
-    * [Part 6](#part-6-of-10-the-scholar-sight-verbosity-audit)
-    * [Part 7](#part-7-of-10-the-scholar-sight-monotony-audit)
-    * [Part 8](#part-8-of-10-the-scholar-sight-action-audit)
-    * [Part 9](#part-9-of-10-the-scholar-sight-expression-audit)
-    * [Part 10](#part-10-of-10-the-scholar-sight-authority-audit)
+    * [Part 1: The Scholar Sight Architecture Audit](#part-1-of-10-the-scholar-sight-architecture-audit)
+    * [Part 2: The Scholar Sight Typography Audit](#part-2-of-10-the-scholar-sight-typography-audit)
+    * [Part 3: The Scholar Sight Concision Audit](#part-3-of-10-the-scholar-sight-concision-audit)
+    * [Part 4: The Scholar Sight Articulation Audit](#part-4-of-10-the-scholar-sight-articulation-audit)
+    * [Part 5: The Scholar Sight Cohesion Audit](#part-5-of-10-the-scholar-sight-cohesion-audit)
+    * [Part 6: The Scholar Sight Verbosity Audit](#part-6-of-10-the-scholar-sight-verbosity-audit)
+    * [Part 7: The Scholar Sight Monotony Audit](#part-7-of-10-the-scholar-sight-monotony-audit)
+    * [Part 8: The Scholar Sight Action Audit](#part-8-of-10-the-scholar-sight-action-audit)
+    * [Part 9: The Scholar Sight Expression Audit](#part-9-of-10-the-scholar-sight-expression-audit)
+    * [Part 10: The Scholar Sight Authority Audit](#part-10-of-10-the-scholar-sight-authority-audit)
 
 ## Sections
 
