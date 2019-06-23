@@ -47,7 +47,7 @@ Scholar Sight is the world's only Research Paper Introspection system.
 * Compatible with all journal formats
 
 
-## Sections of Scholar Sight
+## Sections of a Scholar Sight report
 
 #### Part 1 of 10: The Scholar Sight Architecture Audit
 Review the anatomy of your academic writing: _"Do you obsess over your outline?"_  
