@@ -5,8 +5,8 @@ The World's First Authorship Acceleration Assistant
 ## Table of Contents
 
 1. [Sections](#sections)  
-  * [Part 1](#part-1-of-10-the-scholar-sight-architecture-audit)
-  * [Part 2](#part-1-of-10-the-scholar-sight-typography-audit)
+    * [Part 1](#part-1-of-10-the-scholar-sight-architecture-audit)
+    * [Part 2](#part-1-of-10-the-scholar-sight-typography-audit)
 
 ## Sections
 
