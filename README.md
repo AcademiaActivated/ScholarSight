@@ -3,7 +3,7 @@
 ![ScholarSightLogo](https://github.com/AcademiaActivated/ScholarSight/blob/master/Doc/logo2.PNG)
 
 
-The World's First Authorship Acceleration Assistant  
+**The World's First Authorship Acceleration Assistant**  
 * Draft, edit and proofread faster than your colleagues 
 * Detect embarrassing errors before your editors  
 * Discover insights invisible to your rivals  
