@@ -61,8 +61,8 @@ Study the Scholar Sight Concision Audit to optimise the occurrence of overextend
 
 
 #### Part 4 of 10: The Scholar Sight Articulation Audit
-_"Do you write the right words?"_
-Review the terminology of your academic writing
+_"Do you write the right words?"_  
+Review the terminology of your academic writing  
 Study the Scholar Sight Articulation Audit to evolve a more vast, varied, versatile vocabulary in your academic writing.
 
 
