@@ -21,7 +21,7 @@ The World's First Authorship Acceleration Assistant
     * [Part 8: The Scholar Sight Action Audit](#part-8-of-10-the-scholar-sight-action-audit)
     * [Part 9: The Scholar Sight Expression Audit](#part-9-of-10-the-scholar-sight-expression-audit)
     * [Part 10: The Scholar Sight Authority Audit](#part-10-of-10-the-scholar-sight-authority-audit)
-5. [Orders](#orders) 
+5. [Requests](#requests) 
 5. [Credits](#credits) 
 
 
@@ -93,7 +93,7 @@ Review the rhetoric of your academic writing: _"Do you communicate convincingly?
 Study the Scholar Authority Audit to assert more accurate, articulate arguments in your academic writing.
 
 
-## Orders
+## Requests
 Forward your research paper to AcademiaActivated@gmail.com
 
 
