@@ -1,4 +1,4 @@
-# ScholarSight
+# Scholar Sight
 
 
 ## Table of Contents
