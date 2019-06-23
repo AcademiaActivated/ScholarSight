@@ -29,8 +29,9 @@ Scholar Sight is a Research Paper introspection system.
 
 
 ## Benefits
-1. Detect patterns and habits in your academic writing that are invisible to linear proofreading
-2. Write more consistent coherent research papers
+* Reveal patterns and habits in your academic writing that are invisible to linear proofreading
+* Detect unexpected, career-changing, connections hidden in your own words
+* Write more concise, consistent, coherent research papers
 
 
 ## Features
