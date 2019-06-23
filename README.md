@@ -4,6 +4,7 @@ The World's First Authorship Acceleration Assistant
 
 ## Table of Contents
 
+1. [Sections](#sections)
 
 ## Sections
 
