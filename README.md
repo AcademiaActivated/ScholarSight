@@ -1,6 +1,6 @@
 
 
-![ScholarSightLogo](/ScholarSight/Doc/logo2.PNG)
+![ScholarSightLogo](https://github.com/AcademiaActivated/ScholarSight/blob/master/Doc/logo2.PNG)
 
 
 # Scholar Sight
