@@ -9,6 +9,7 @@ The World's First Authorship Acceleration Assistant
 
 1. [Description](#description) 
 2. [Benefits](#benefits) 
+2. [Features](#features) 
 3. [Sections](#sections)  
     * [Part 1: The Scholar Sight Architecture Audit](#part-1-of-10-the-scholar-sight-architecture-audit)
     * [Part 2: The Scholar Sight Typography Audit](#part-2-of-10-the-scholar-sight-typography-audit)
@@ -30,6 +31,9 @@ Scholar Sight is a Research Paper introspection system.
 1. Detect patterns and habits in your academic writing that are invisible to linear proofreading
 2. Write more consistent coherent research papers
 
+## Features
+Ten individual analysis sheets  
+Over 100 analysis functions  
 
 ## Sections
 
