@@ -94,7 +94,7 @@ Study the Scholar Authority Audit to assert more accurate, articulate arguments 
 
 
 ## Requests
-Forward your research paper to AcademiaActivated@gmail.com
+Forward a copy of your research paper to AcademiaActivated@gmail.com
 
 
 ## Credits
