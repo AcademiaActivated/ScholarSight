@@ -4,8 +4,8 @@
 
 
 The World's First Authorship Acceleration Assistant  
-* Write, edit and proofread faster than your colleagues 
-* Detect contextual errors before your editors  
+* Draft, edit and proofread faster than your colleagues 
+* Detect embarrassing errors before your editors  
 * Discover insights invisible to your rivals  
 
 Scholar Sight gives you academic superpowers!  
