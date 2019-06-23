@@ -3,8 +3,6 @@
 ![ScholarSightLogo](https://github.com/AcademiaActivated/ScholarSight/blob/master/Doc/logo2.PNG)
 
 
-# Scholar Sight
-
 The World's First Authorship Acceleration Assistant
 
 ## Table of Contents
