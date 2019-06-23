@@ -4,8 +4,8 @@ The World's First Authorship Acceleration Assistant
 
 ## Table of Contents
 
-1. [Sections](#sections)
-[Part 1](#https://github.com/AcademiaActivated/ScholarSight#part-1-of-10-the-scholar-sight-architecture-audit)
+1. [Sections](#sections)  
+[* Part 1](#https://github.com/AcademiaActivated/ScholarSight#part-1-of-10-the-scholar-sight-architecture-audit)
 
 ## Sections
 
