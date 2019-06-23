@@ -16,7 +16,7 @@ Scholar Sight gives you academic superpowers!
 1. [Description](#description) 
 2. [Benefits](#benefits) 
 2. [Features](#features) 
-3. [Sections](#sections)  
+3. [Sections](#sections-of-a-scholar-sight-report)  
     * [Part 1: The Scholar Sight Architecture Audit](#part-1-of-10-the-scholar-sight-architecture-audit)
     * [Part 2: The Scholar Sight Typography Audit](#part-2-of-10-the-scholar-sight-typography-audit)
     * [Part 3: The Scholar Sight Concision Audit](#part-3-of-10-the-scholar-sight-concision-audit)
