@@ -1,3 +1,8 @@
+
+
+![ScholarSightLogo](/ScholarSight/Doc/logo2.PNG)
+
+
 # Scholar Sight
 
 The World's First Authorship Acceleration Assistant
