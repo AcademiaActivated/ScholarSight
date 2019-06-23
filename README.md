@@ -99,7 +99,7 @@ Review the rhetoric of your academic writing: _"Do you communicate convincingly?
 Study the Scholar Authority Audit to assert more accurate, articulate arguments in your academic writing.
 
 
-## Requests
+## Request your Scholar Sight report today!
 Forward a copy of your research paper to AcademiaActivated@gmail.com
 
 
