@@ -1,5 +1,6 @@
 # Scholar Sight
 
+The World's First Authorship Acceleration Assistant
 
 ## Table of Contents
 
@@ -18,9 +19,9 @@
 
 
 ## Part 1 of 10: The Scholar Sight Architecture Audit
-"Do you obsess over your outline?"
-Review the anatomy of your academic writing
-Study the Scholar Sight Architecture Audit to improve the interconnection of important features in your academic writing.
+"Do you obsess over your outline?"  
+Review the anatomy of your academic writing  
+Study the Scholar Sight Architecture Audit to improve the interconnection of important features in your academic writing.  
 
 
 ## Part 2 of 10: The Scholar Sight Typography Audit
