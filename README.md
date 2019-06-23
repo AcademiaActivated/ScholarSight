@@ -107,4 +107,4 @@ Forward a copy of your research paper to AcademiaActivated@gmail.com
 Scholar Sight is built with Python 3.7.3 using Spyder3.3.4
 
 
-
+![ScholarSightLogo](Doc/img1.jpg)
