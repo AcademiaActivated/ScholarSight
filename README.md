@@ -27,15 +27,19 @@ The World's First Authorship Acceleration Assistant
 ## Description
 Scholar Sight is a Research Paper introspection system.  
 
+
 ## Benefits
 1. Detect patterns and habits in your academic writing that are invisible to linear proofreading
 2. Write more consistent coherent research papers
 
-## Features
-Ten individual analysis sheets  
-Over 100 analysis functions  
 
-## Sections
+## Features
+* Ten interactive Academic Writing analysis worksheets
+* Over 100 distinct text analysis functions
+* Compatible with all journal formats
+
+
+## Sections of Scholar Sight
 
 #### Part 1 of 10: The Scholar Sight Architecture Audit
 _"Do you obsess over your outline?"_  
@@ -101,7 +105,7 @@ Study the Scholar Authority Audit to assert more accurate, articulate arguments 
 
 
 ## Credits
-Scholar Sight is built with Python3
+Scholar Sight is built with Python 3.7.3 using Spyder3.3.4
 
 
 
