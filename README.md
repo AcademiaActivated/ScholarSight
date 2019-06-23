@@ -26,7 +26,7 @@ The World's First Authorship Acceleration Assistant
 
 
 ## Description
-Scholar Sight is a Research Paper introspection system.  
+Scholar Sight is the world's only Research Paper Introspection system.  
 
 
 ## Benefits
