@@ -43,7 +43,7 @@ Scholar Sight is a Research Paper introspection system.
 ## Sections of Scholar Sight
 
 #### Part 1 of 10: The Scholar Sight Architecture Audit
-Review the anatomy of your academic writing: _"Do you obsess over your outline?"_    
+Review the anatomy of your academic writing: _"Do you obsess over your outline?"_  
 Study the Scholar Sight Architecture Audit to improve the interconnection of important features in your academic writing.  
 
 
@@ -53,13 +53,12 @@ Study the Scholar Sight Typography Audit to perfect the pattern of punctuation i
 
 
 #### Part 3 of 10: The Scholar Sight Concision Audit
-_"Do you limit your line length?"_  
-Review the brevity of your academic writing  
+Review the brevity of your academic writing: _"Do you limit your line length?"_    
 Study the Scholar Sight Concision Audit to optimise the occurrence of overextended sentences in your academic writing.
 
 
 #### Part 4 of 10: The Scholar Sight Articulation Audit
-Review the terminology of your academic writing:  _"Do you write the right words?"_  
+Review the terminology of your academic writing:  _"Do you write the right words?"_    
 Study the Scholar Sight Articulation Audit to evolve a more vast, varied, versatile vocabulary in your academic writing.
 
 
@@ -69,12 +68,12 @@ Study the Scholar Sight Cohesion Audit to cultivate a more inter-connected coher
 
 
 #### Part 6 of 10: The Scholar Sight Verbosity Audit
-Review the readability of your academic writing:  _"Do you justify your jargon?"_ 
+Review the readability of your academic writing:  _"Do you justify your jargon?"_  
 Study the Scholar Sight Verbosity Audit to craft a more concise, comprehensible economy in your academic writing.
 
 
 #### Part 7 of 10: The Scholar Sight Monotony Audit
-Review the tedium of your academic writing:  _"Do you reduce repetition?"_ 
+Review the tedium of your academic writing:  _"Do you reduce repetition?"_  
 Study the Scholar Sight Monotony Audit to rectify redundant replication in your academic writing.
 
 
@@ -84,12 +83,12 @@ Study the Scholar Sight Action Audit to enable more energetic, engaging eloquenc
 
 
 #### Part 9 of 10: The Scholar Sight Expression Audit
-Review the colour of your academic writing: _"Do you paint a picture?"_    
+Review the colour of your academic writing: _"Do you paint a picture?"_   
 Study the Scholar Expression Audit to publish more precise, persuasive prose in your academic writing.
 
 
 #### Part 10 of 10: The Scholar Sight Authority Audit
-Review the rhetoric of your academic writing: _"Do you communicate convincingly?"_    
+Review the rhetoric of your academic writing: _"Do you communicate convincingly?"_  
 Study the Scholar Authority Audit to assert more accurate, articulate arguments in your academic writing.
 
 
